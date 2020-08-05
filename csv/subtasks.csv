@@ -1,0 +1,8 @@
+subtasks.gid,subtasks.name,subtasks.resource_type,parent.gid,parent.name,parent.resource_type
+1183372481645173,Learn more about using Asana for design teams,task,1183372481645172,[READ ME] Instructions for using this project,task
+1183372481645174,Break work into tasks and assign date ranges to signify when work needs to be done,task,1183372481645172,[READ ME] Instructions for using this project,task
+1183372481645175,Use sections to group work together,task,1183372481645172,[READ ME] Instructions for using this project,task
+1183372481645176,Use Custom Fields to track priority and task progress,task,1183372481645172,[READ ME] Instructions for using this project,task
+1183372481645203,test subtask1,task,1183372481645201,test task1,task
+1183372481645204,test subtask2,task,1183372481645201,test task1,task
+1183372481645215,,task,1183372481645201,test task1,task
